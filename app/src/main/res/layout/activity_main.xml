@@ -20,11 +20,10 @@
       android:id="@+id/textView2"
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
-      android:layout_marginBottom="51dp"
       android:layout_marginStart="8dp"
       android:text="Raze Galactic"
       android:textAppearance="@style/TextAppearance.AppCompat.Headline"
-      app:layout_constraintBottom_toTopOf="@+id/button"
+      app:layout_constraintBottom_toBottomOf="@+id/imageView2"
       app:layout_constraintEnd_toEndOf="parent"
       app:layout_constraintStart_toStartOf="parent"
       app:layout_constraintTop_toTopOf="@+id/imageView2"/>
