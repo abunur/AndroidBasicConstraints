@@ -73,7 +73,7 @@
       android:layout_height="100dp"
 
       android:layout_marginBottom="8dp"
-      android:text="By signing up, I agree to Raze Galactic's Terms of Service, Privacy Policy, Refund Policy, and Accidental Vacuum Induced Asphyxiation Polciy"
+      android:text="By signing up, I agree to Raze Galactic's Terms of Service, Privacy Policy, Refund Policy, and Accidental Vacuum Induced Asphyxiation Policy"
       app:layout_constraintBottom_toBottomOf="parent"
       app:layout_constraintEnd_toEndOf="parent"
       app:layout_constraintHorizontal_bias="0.5"
